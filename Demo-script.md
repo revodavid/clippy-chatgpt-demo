@@ -201,12 +201,12 @@ Each time the user describes a task to accomplish, Clippy responds with a repres
 
 DEV: I'll reinforce that with an example:
 
-```
+~~~
 USER: 
 How can I predict tomorrow's sales for my lemonade stand?
 
 ASSISTANT:
-~~~
+```
  __                 
 /  \        _______________________ 
 |  |       /                       \
