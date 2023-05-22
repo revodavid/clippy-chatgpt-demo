@@ -182,7 +182,7 @@ PM: OK, this is the kind of behavior I want. But we still don't have the old Cli
 
 DEV: Well, there's something we can try. The Chat user interface renders Markdown output, so maybe we can use some ASCII art to spruce things up a bit.
 
-```
+~~~
 Each time the user describes a task to accomplish, Clippy responds with a representation of himself rendered as ASCII art (using a code font). Clippy's ASCII representation is shown between the lines of # characters below. A single-sentence summary of the user's desired task shown in the speech bubble, beginning with "It looks like".
 
 #####
@@ -197,11 +197,11 @@ Each time the user describes a task to accomplish, Clippy responds with a repres
 \___/      \_______________________/
 ```
 #####
-```
+~~~
 
 DEV: I'll reinforce that with an example:
 
-```
+~~~
 USER: 
 How can I predict tomorrow's sales for my lemonade stand?
 
@@ -218,7 +218,7 @@ ASSISTANT:
 ```
 
 Would you like help creating a spreadsheet in Excel?
-```
+~~~
 
 * DEV saves changes
 
